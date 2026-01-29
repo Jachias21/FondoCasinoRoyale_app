@@ -1,0 +1,17 @@
+# --- Android / Frontend ---
+.gradle/
+local.properties
+.idea/
+frontend/build/
+frontend/app/build/
+*.iml
+*.DS_Store
+
+# --- Spring Boot / Backend ---
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.log
+backend/.settings/
+backend/.classpath
+backend/.project
