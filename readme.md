@@ -65,3 +65,9 @@ Para ejecutar este proyecto localmente necesitas:
     * 🎰 Slot Machine
     * 🔴 Ruleta
     * 🎫 Rasca y Gana
+
+## Contribuidores
+Joan Albert Chias
+Gerard Bartalot
+Sergio Arenas
+Nil Arroyo
