@@ -67,7 +67,7 @@ Para ejecutar este proyecto localmente necesitas:
     * 🎫 Rasca y Gana
 
 ## Contribuidores
-Joan Albert Chias
-Gerard Bartalot
-Sergio Arenas
-Nil Arroyo
+* Joan Albert Chias
+* Gerard Bartalot
+* Sergio Arenas
+* Nil Arroyo
